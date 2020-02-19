@@ -6,3 +6,4 @@ This project is written in Python 2 (to use in Python 3, slight modifications mu
 
 MILADIS is a set of tools to analyze distribution of satellite galaxy systems...
 ![quick tool to generate images of astrophysical objects](https://raw.githubusercontent.com/josegit88/MILADIS/master/legacy/web_images/Pawlowski_Marcel_2018.jpeg)
+Pawlowski M. et al. (2018)
